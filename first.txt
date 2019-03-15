@@ -1,1 +1,3 @@
-Today is not cold at all.
+Today is not cold.
+
+Tomorrow will be colder.
